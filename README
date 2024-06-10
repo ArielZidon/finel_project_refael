@@ -24,3 +24,11 @@ You can also find us on #buildroot on OFTC IRC.
 
 If you would like to contribute patches, please read
 https://buildroot.org/manual.html#submitting-patches
+
+
+////////////////////////////////////////////////////////
+the server locate in 2 diffrent place:
+/user/bin
+/server
+
+the c files exist in another repo:
